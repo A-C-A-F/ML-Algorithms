@@ -1,7 +1,7 @@
 # ML-Algorithms
 Machine Learning Algorithms
 
-In this project, I will train several classification algorithms.
+In this project, we will train several classification algorithms. Machine learning algorithms help companies analyze customer attrition rate based on several factors which includes various services subscribed by the customers, tenure rate, gender, senior citizen, payment method, etc..
 
 __Data Source:__ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
